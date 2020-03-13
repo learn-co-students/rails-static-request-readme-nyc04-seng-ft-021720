@@ -26,7 +26,7 @@ Now draw the route by opening the `config/routes.rb` file and adding the followi
 
 ```ruby
 get 'about', to: 'static#about'
-````
+```
 
 Let's look at the components that make up this route code:
 
